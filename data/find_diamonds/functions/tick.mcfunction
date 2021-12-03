@@ -1,0 +1,1 @@
+execute as @a[scores={clear=1..}] at @s run function find_diamonds:run
