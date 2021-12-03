@@ -1,6 +1,7 @@
 {
     "values": [
-        "find_diamonds:load"
+        "orefilter:load",
+        "chunk_finder:load"
     ]
 
     
