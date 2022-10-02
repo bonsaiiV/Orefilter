@@ -1,8 +1,5 @@
 {
     "values": [
-        "orefilter:load",
-        "chunk_finder:load"
+        "orefilter:load"
     ]
-
-    
 }
