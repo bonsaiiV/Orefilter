@@ -1,1 +1,0 @@
-execute as @a[scores={clear=1..}] at @s run function orefilter:run

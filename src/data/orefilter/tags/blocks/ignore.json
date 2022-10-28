@@ -1,0 +1,18 @@
+{
+    "values": [
+        "#minecraft:crops",
+        "#minecraft:flowers",
+        "#minecraft:leaves",
+        "#minecraft:logs",
+        "#minecraft:planks",
+        "#minecraft:fences",
+        "#minecraft:underwater_bonemeals",
+        "#minecraft:base_stone_overworld",
+        "#minecraft:sand",
+        "#minecraft:dirt",
+        "minecraft:snow",
+        "minecraft:sandstone",
+        "minecraft:water",
+        "minecraft:lava"
+    ]
+}
